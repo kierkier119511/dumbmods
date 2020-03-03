@@ -14,7 +14,7 @@ range: 100
 
 shots: 3
 
-ammoUseEffect: shellEjectSmall
+ammoUseEffect: shellEject small
 
 inaccuracy: 20
 
@@ -36,7 +36,7 @@ ammo: {
 
     smokeEffect: shootSmallSmoke
 
-    ammoMultiplier: 5
+    ammoMultiplier: 1
 
   }
 
