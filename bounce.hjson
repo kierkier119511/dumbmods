@@ -14,7 +14,7 @@ range: 100
 
 shots: 3
 
-ammoUseEffect: shellEject small
+ammoUseEffect: shellEjectsmall
 
 inaccuracy: 20
 
