@@ -1,6 +1,6 @@
 name: "more-stuff"
-displayname: "[purple]more [purple]stuff"
+displayname: "[purple]more[purple] stuff"
 author: "kierkier"
-description: "IDK"
+description: "adds more stuff."
 version: "3.1"
 minGameVersion: "103"
