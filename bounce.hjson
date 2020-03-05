@@ -1,52 +1,27 @@
 type: BurstTurret
-
 name: bounce
-
 description: don't question science
-
 health: 200
-
 size: 1
-
 reload: 8
-
 range: 100
-
 shots: 3
-
 ammoUseEffect: shellEjectsmall
-
 inaccuracy: 20
-
 rotatespeed: 10
-
 ammo: {
-
   copper: {
-
     speed: 4
-
     damage: 5
-
     bulletWidth: 7
-
     bulletHeight: 9
-
     hitEffect: arc
-
     smokeEffect: shootSmallSmoke
-
     ammoMultiplier: 1
-
   }
-
 }
-
 requirements: [
-
   copper/70
-
 ]
-
 category: turret
 research: duo
