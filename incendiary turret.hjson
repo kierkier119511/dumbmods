@@ -1,0 +1,55 @@
+type: DoubleTurret
+
+name: incendiary turret
+
+description: heats copper and shoots it to ignit enemies.
+
+health: 200
+
+size: 2
+
+reload: 40
+
+range: 250
+
+ammoUseEffect: shellEjectSmall
+
+inaccuracy: 0
+
+rotatespeed: 12
+
+ammo: {
+
+  copper: {
+
+    speed: 3
+
+    damage: 15
+
+    bulletWidth: 7
+
+    bulletHeight: 9
+
+    shootEffect: shootSmall
+
+    smokeEffect: shootSmallSmoke
+
+    hitEffect: standardIncendiary
+
+    ammoMultiplier: 1
+
+  }
+
+}
+
+requirements: [
+
+  titanium/50
+
+  copper/70
+
+]
+
+category: turret
+
+research: duo
